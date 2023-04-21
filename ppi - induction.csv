@@ -1,0 +1,13 @@
+Attribute,Level,type,estimate
+PASI75,0.05,ascending,0
+PASI75,0.3,ascending,0.88
+PASI75,0.55,ascending,1.78
+PASI75,0.9,ascending,3.04
+Infection,0,descending,0
+Infection,0.1,descending,-0.33
+Infection,0.2,descending,-0.6
+Infection,0.3,descending,-0.89
+SIB,0,descending,0
+SIB,0.0002,descending,-0.09
+SIB,0.0004,descending,-0.18
+SIB,0.0008,descending,-0.35

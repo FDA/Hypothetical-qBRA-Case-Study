@@ -1,0 +1,12 @@
+Attribute,Level,type,estimate
+NAPSI,1,ascending,0
+NAPSI,3,ascending,0.89
+NAPSI,5,ascending,1.82
+SIB,0,descending,0
+SIB,0.0002,descending,-0.06
+SIB,0.0004,descending,-0.13
+SIB,0.0008,descending,-0.25
+Infection,0,descending,0
+Infection,0.1,descending,-0.34
+Infection,0.2,descending,-0.71
+Infection,0.3,descending,-1.03

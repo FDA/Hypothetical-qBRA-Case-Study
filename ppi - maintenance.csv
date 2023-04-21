@@ -1,0 +1,14 @@
+Attribute,Level,type,estimate
+sPGA,0.35,ascending,0
+sPGA,0.45,ascending,0.58
+sPGA,0.55,ascending,1.22
+sPGA,0.65,ascending,1.83
+Infection,110,descending,0
+Infection,115,descending,-0.59
+Infection,120,descending,-1.22
+SIB,0.02,descending,0
+SIB,0.2,descending,-0.39
+SIB,0.4,descending,-0.86
+Hypersensitivity,2,descending,0
+Hypersensitivity,4,descending,-0.19
+Hypersensitivity,8,descending,-0.41
